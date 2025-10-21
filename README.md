@@ -1,6 +1,4 @@
----
-
-## 🩺 Doctor Appointment System — MERN Stack
+ 🩺 Doctor Appointment System — MERN Stack
 
 ### 📘 1. Overview
 
