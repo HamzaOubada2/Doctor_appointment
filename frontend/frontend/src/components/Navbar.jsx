@@ -93,7 +93,7 @@ const Navbar = () => {
         <ul className="flex flex-col space-y-4 mt-4 text-lg font-medium md:hidden">
           <li>
             <Link onClick={toggleMenu} to="/" className="hover:text-[#00575a] transition-colors duration-200">
-              Home
+              Home-Page
             </Link>
           </li>
           <li>
